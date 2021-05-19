@@ -8,4 +8,4 @@
 #-------------------------------------------------------------------------------
 import scrapy.cmdline as cmdline
 # 启动 爬虫
-cmdline.execute('scrapy crawl zhilian_entp_spider'.split())
+cmdline.execute('scrapy crawssssl zhilian_entp_spider'.split())
