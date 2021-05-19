@@ -12,3 +12,6 @@ dev   dsffsd
 cmdline.execute('scrapy crawssssl zhilian_entp_spider'.split())s s s s
 fds fsd sd
 sdfsdfsdfsdfsdf fs f df sd d    ds s
+
+
+master ,master ,master ,master ,master ,master ,
